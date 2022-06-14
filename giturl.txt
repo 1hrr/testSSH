@@ -1,0 +1,1 @@
+创建了giturl变量=git@github.com:1hrr/testSSH.git master
